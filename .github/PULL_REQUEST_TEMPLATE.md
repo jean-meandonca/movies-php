@@ -12,6 +12,7 @@
   - [] Nova Funcionalidade
   - [] Correção de bug
   - [] Melhoria na performance
+  - [] Estilo
   - [] Outros (Explique)
 
  ## Checklist:
